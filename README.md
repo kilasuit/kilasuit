@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate on things around PowerShell DSC
 - 🤔 I’m looking for help with finding time to learn C#
 - 💬 Ask me about PowerShell/Automation/Configuration Management/Azure
-- 📫 How to reach me: Twitter @ryanyates1990 - [![Twitter Follow](https://img.shields.io/twitter/follow/ryanyates1990?style=social)
-
+- 📫 How to reach me: Twitter @ryanyates1990 
 - 😄 Pronouns: He/Him/They/Them
 - ⚡ Fun fact: I am a 6 time Microsoft MVP in Cloud and Datacenter Management - Check out my [MVP Profile](https://mvp.microsoft.com/en-us/PublicProfile/5001821?fullName=Ryan%20Yates) for more details 
 
@@ -14,7 +13,7 @@
 
 [![Linkedin: Ryan Yates](https://img.shields.io/badge/-Ryan%20Yates-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanyates90/)](https://www.linkedin.com/in/ryanyates90/)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ryanyates1990?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ryanyates1990?style=social&link=https://twitter.com/ryanyates1990?ref_src=twsrc%5Etfw")](https://twitter.com/ryanyates1990?ref_src=twsrc%5Etfw")
 
 
 | Stats |  Languages |
