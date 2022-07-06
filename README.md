@@ -7,7 +7,8 @@
 - 💬 Ask me about PowerShell/Automation/Configuration Management/Azure
 - 📫 How to reach me: Twitter @ryanyates1990 
 - 😄 Pronouns: He/Him/They/Them
-- ⚡ Fun fact: I am a 6 time Microsoft MVP in Cloud and Datacenter Management - Check out my [MVP Profile](https://mvp.microsoft.com/en-us/PublicProfile/5001821?fullName=Ryan%20Yates) for more details 
+- ⚡ Fun fact 1: I blog and talk about #MentalHealth on a number of different mediums including over on https://mhasl.me
+- ⚡ Fun fact 2: I am a 7 time Microsoft MVP in Cloud and Datacenter Management - Check out my [MVP Profile](https://mvp.microsoft.com/en-us/PublicProfile/5001821?fullName=Ryan%20Yates) for more details 
 
 ![GitHub followers](https://img.shields.io/github/followers/kilasuit?style=social)
 
