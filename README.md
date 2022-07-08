@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Azure and PowerShell things
 - 🌱 I’m currently learning (slowly C# - like very slowly)
+- ⚒️ I am a PowerShell Working Group Member focused on Interactive UX
 - 👯 I’m looking to collaborate on things around PowerShell DSC
 - 🤔 I’m looking for help with finding time to learn C#
 - 💬 Ask me about PowerShell/Automation/Configuration Management/Azure
