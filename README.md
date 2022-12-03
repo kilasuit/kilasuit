@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+kilasuit is my username of choice as I really enjoyed playing Hitman and he's a killer in a suit. nothing more to it than that. Also it is my Gamertag on Xbox & most places where I can get hold of it. 
+
 - 🔭 I’m currently working on Azure and PowerShell things
 - 🌱 I’m currently learning (slowly C# - like very slowly)
 - ⚒️ I am a PowerShell Working Group Member focused on Interactive UX
@@ -7,6 +9,7 @@
 - 🤔 I’m looking for help with finding time to learn C#
 - 💬 Ask me about PowerShell/Automation/Configuration Management/Azure
 - 📫 How to reach me: Twitter @ryanyates1990 
+- 📫 How to reach me: Discord pwshdoodUK 
 - 😄 Pronouns: He/Him/They/Them
 - ⚡ Fun fact 1: I blog and talk about #MentalHealth on a number of different mediums including over on https://mhasl.me
 - ⚡ Fun fact 2: Former 7 time Microsoft MVP in Cloud & Datacenter Management. 
