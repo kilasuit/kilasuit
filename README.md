@@ -11,8 +11,9 @@ kilasuit is my username of choice as I really enjoyed playing Hitman and he's a 
 - 📫 How to reach me: Twitter @ryanyates1990 
 - 📫 How to reach me: Discord pwshdoodUK 
 - 😄 Pronouns: He/Him/They/Them
-- ⚡ Fun fact 1: I blog and talk about #MentalHealth on a number of different mediums including over on https://mhasl.me
-- ⚡ Fun fact 2: Former 7 time Microsoft MVP in Cloud & Datacenter Management. 
+- ⚡ Fun fact 1: I blog and talk about #MentalHealth on a number of different mediums including over on [Mental Health Affects Someone Like Me](https://mhasl.me)
+- ⚡ Fun fact 2: Former 7 time Microsoft MVP in Cloud & Datacenter Management.
+-  💷 Want to donate towards my work, you can either sponsor me here on GitHub or donate directly to me via [this link](https://monzo.me/ryanyates)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/kilasuit?style=social)
