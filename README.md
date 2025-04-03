@@ -2,10 +2,10 @@
 
 kilasuit is my username of choice as I really enjoyed playing Hitman and he's a killer in a suit. nothing more to it than that. Also it is my Gamertag on Xbox & most places where I can get hold of it. 
 
-- 🔭 I’m currently working on Azure and PowerShell things
+- 🔭 I’m currently working on PowerShell things, some Azure and more researchy things 
 - 🌱 I’m currently learning (slowly C# - like very slowly)
-- ⚒️ I am a PowerShell Working Group Member focused on Interactive UX
-- 👯 I’m looking to collaborate on things around PowerShell DSC
+- ⚒️ I am a PowerShell Working Group Member for Cmdlets. Engine and Interactive UX 
+- 👯 I’m looking to collaborate on things around PowerShell DSC & DSCCommunity
 - 🤔 I’m looking for help with finding time to learn C#
 - 💬 Ask me about PowerShell/Automation/Configuration Management/Azure
 - 📫 How to reach me: Twitter @ryanyates1990 
