@@ -2,23 +2,21 @@
 
 kilasuit is my username of choice as I really enjoyed playing Hitman and he's a `killer in a suit` & there's nothing more to it than that. Also it is my Gamertag on Xbox & most places where I can get hold of it unless I use one of my many other handles.
 
-- 🔭 I’m currently working on many different PowerShell things
-- ⚒️ I am a PowerShell Working Group Member for Cmdlets, Engine and Interactive UX
-- 👯 I’m looking to collaborate on things around PowerShell DSC & DSCCommunity
+I've got lots in mind that I want to achieve, and like us all, I definitely do not have enough time to complete all the things I'd like to, at least not on my own. 
+
+- 🔭 I’m currently working on many different PowerShell things where I help out where possible as Working Group Member for Cmdlets, Engine and Interactive UX. I’ve previously spent time around PowerShell, DSC & DSCCommunity.
 - 📄 I'm currently documenting different [DocTypes](https://github.com/kilasuit/doctypes)
-- 🌱 I’m currently learning (slowly C# - like very slowly)
-- 🤔 I’m looking for help with finding time to learn C#
-- 🛠 I have multiple projects in mind that C# would be great fro me to really dig into and would help more with PowerShell related work too.
+- 😄 Pronouns: He/Him/They/Them
+- ⚡ Fun fact 1: I blog and talk about #MentalHealth on a number of different mediums including over on [Mental Health Affects Someone Like Me](https://mhasl.me)
+- ⚡ Fun fact 2: Former 7 time Microsoft MVP in Cloud & Datacenter Management.
+- 🛠 I am revisting the world of Web Development with multiple different sites.
 - 💬 Ask me about PowerShell/Automation/Configuration Management/Azure
 - 📫 How to reach me: Twitter @ryanyates1990 
 - 📫 How to reach me: Bsky @blog.kilasuit.org 
 - 📫 How to reach me: Discord pwshdoodUK
 - 📫 How to reach me: Email - please use PGP (see my key below) when contacting me
-- 😄 Pronouns: He/Him/They/Them
-- ⚡ Fun fact 1: I blog and talk about #MentalHealth on a number of different mediums including over on [Mental Health Affects Someone Like Me](https://mhasl.me)
-- ⚡ Fun fact 2: Former 7 time Microsoft MVP in Cloud & Datacenter Management.
 - 💷 Want to contribute to my repos? then have a look at the Contributing.md in them. If there isn't one, please raise an issue mentioning it's missing.
-- 💷 Want to donate towards my work & research, then please have a read through the [Donation Policy on my Blog](https://blog.kilasuit.org/donation-policy/)
+- 💷 Want to donate/sponsor towards my work & research, then please have a read through the [Donation Policy on my Blog](https://blog.kilasuit.org/donation-policy/)
 - 💲 Interested in hiring me for some work, then have a look at [this page](https://blog.kilasuit.org/hire-my-services)
 
 - For more about me - please read my [about me section on my blog](https://blog.kilasuit.org/about-me)
