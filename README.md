@@ -28,9 +28,10 @@ I've got lots in mind that I want to achieve, and like us all, I definitely do n
 [![Twitter Follow](https://img.shields.io/twitter/follow/ryanyates1990?style=social&link=https://twitter.com/ryanyates1990?ref_src=twsrc%5Etfw")](https://twitter.com/ryanyates1990?ref_src=twsrc%5Etfw")
 
 
+
 | Stats |  Languages |
 | --------------- | --------------- |
-| [![Kilasuit's GitHub stats](https://github-readme-stats.vercel.app/api?username=kilasuit&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilasuit&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
+| <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kilasuit&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="420"/> | <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kilasuit&layout=compact&langs_count=8&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff"> |
 
 Please see my current PGPKey as per the below
 ```
