@@ -17,7 +17,7 @@ I've got lots in mind that I want to achieve, and like us all, I definitely do n
 - 📫 How to reach me: Email - please use PGP (see my key below) when contacting me
 - 💷 Want to contribute to my repos? then have a look at the Contributing.md in them. If there isn't one, please raise an issue mentioning it's missing.
 - 💷 Want to donate/sponsor towards my work & research, then please have a read through the [Donation Policy on my Blog](https://blog.kilasuit.org/donation-policy/)
-- 💲 Interested in hiring me for some work, then have a look at [this page](https://blog.kilasuit.org/hire-my-services)
+- 💲 Interested in hiring me for some work, then have a look at [this page](https://blog.kilasuit.org/hire-me/)
 
 - For more about me - please read my [about me section on my blog](https://blog.kilasuit.org/about-me)
 
